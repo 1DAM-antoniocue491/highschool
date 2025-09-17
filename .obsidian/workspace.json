@@ -11,14 +11,24 @@
             "id": "8b3b2ace9528e14f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
-                "mode": "source",
-                "source": false
+                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md"
               },
-              "icon": "lucide-file",
-              "title": "Temario"
+              "icon": "excalidraw-icon",
+              "title": "Introducción"
+            }
+          },
+          {
+            "id": "2acbadb7f357aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Introducción"
             }
           }
         ]
@@ -169,11 +179,24 @@
   },
   "active": "8b3b2ace9528e14f",
   "lastOpenFiles": [
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.pdf",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP_tmp.html",
+    "2ºDAM/Optativa/Test_PHP_Cliente_Servidor_Antonio_Cuevas_López.pdf",
+    "2ºDAM/media/Pasted image 20250917174611.png",
+    "2ºDAM/media/Pasted image 20250917174435.png",
+    "2ºDAM/media/Pasted image 20250917174027.png",
+    "2ºDAM/media/Pasted image 20250917173832.png",
+    "2ºDAM/media/Pasted image 20250917173744.png",
+    "2ºDAM/media/Pasted image 20250917173458.png",
+    "2ºDAM/media",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
+    "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor",
     "2ºDAM/Horario.md",
     "readme.txt",
     "Nuevo documento de texto.txt",
     "README.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/ejercicios4ºESO.pdf",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/6. Geometría/Temario.md",
@@ -188,11 +211,6 @@
     "Bachillerato/Matemáticas II/Bases de Matemáticas/2. Proporcionalidad/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Contenidos y temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/8. Estadística",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/7. Funciones. Modelos funcionales",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/6. Geometría",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/5. Inecuaciones",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/4. Ecuaciones y sistemas",
     "Bachillerato/Matemáticas II/Ruta de Estudio.md",
     "2025-09-14.md",
     "Bachillerato/Matemáticas II/Simbología.md",
@@ -201,8 +219,6 @@
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Contenido.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Sistemas de ecuaciones/Explicación Extendida.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Operaciones con polinomios/Explicación Extendida.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Inecuaciones simples/Explicación Extendida.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Factorización y productos notables/Explicación Extendida.md"
+    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Operaciones con polinomios/Explicación Extendida.md"
   ]
 }
