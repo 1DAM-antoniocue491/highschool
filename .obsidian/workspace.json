@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "377adedd5c5caa6d",
+        "id": "a351ac34d1ec10fa",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3b2ace9528e14f",
+            "id": "3cdf9810eb1eb84b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md"
+                "file": "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Introducción"
-            }
-          },
-          {
-            "id": "2acbadb7f357aa9f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Introducción"
+              "icon": "lucide-file",
+              "title": "Temario"
             }
           }
         ]
@@ -104,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Temario"
             }
           },
           {
@@ -177,10 +168,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b3b2ace9528e14f",
+  "active": "3cdf9810eb1eb84b",
   "lastOpenFiles": [
     "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
+    "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
+    "2ºDAM/ACDAT2526/UD1_Ficheros",
     "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.pdf",
+    "2ºDAM/media/prueba.png",
+    "Excalidraw/Drawing 2025-09-19 17.29.38.excalidraw.md",
+    "Excalidraw",
+    "2ºDAM/media/Pasted image 20250917173458.png",
+    "2ºDAM/media/Sin confirmar 966048.crdownload",
+    "Bachillerato/Matemáticas II/Ruta de Estudio.md",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
     "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP_tmp.html",
     "2ºDAM/Optativa/Test_PHP_Cliente_Servidor_Antonio_Cuevas_López.pdf",
     "2ºDAM/media/Pasted image 20250917174611.png",
@@ -188,37 +188,29 @@
     "2ºDAM/media/Pasted image 20250917174027.png",
     "2ºDAM/media/Pasted image 20250917173832.png",
     "2ºDAM/media/Pasted image 20250917173744.png",
-    "2ºDAM/media/Pasted image 20250917173458.png",
     "2ºDAM/media",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
     "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor",
     "2ºDAM/Horario.md",
     "readme.txt",
     "Nuevo documento de texto.txt",
     "README.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/ejercicios4ºESO.pdf",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/6. Geometría/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/8. Estadística/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/7. Funciones. Modelos funcionales/prueba.md",
     "Excalidraw/Drawing 2025-09-16 08.42.09.excalidraw.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/7. Funciones. Modelos funcionales/Temario.md",
-    "Excalidraw",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/5. Inecuaciones/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/4. Ecuaciones y sistemas/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/3. Polinomios/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/2. Proporcionalidad/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Contenidos y temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad",
-    "Bachillerato/Matemáticas II/Ruta de Estudio.md",
     "2025-09-14.md",
     "Bachillerato/Matemáticas II/Simbología.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Fracciones.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios Realizados.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Contenido.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Sistemas de ecuaciones/Explicación Extendida.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Operaciones con polinomios/Explicación Extendida.md"
+    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios.md"
   ]
 }

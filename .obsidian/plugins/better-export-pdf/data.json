@@ -3,7 +3,7 @@
   "maxLevel": "6",
   "displayHeader": true,
   "displayFooter": true,
-  "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"title\"></span></div>",
+  "headerTemplate": "<header>\n  <div>\n    <img src=\"https://www.google.com/imgres?q=google&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2f%2FGoogle_2015_logo.svg%2F320px-Google_2015_logo.svg.png&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGoogle&docid=SxXC4igCorECRM&tbnid=ZOmYxnSMGIyRLM&vet=12ahUKEwii7_XLluWPAxUQNPsDHZepL3IQM3oECBQQAA..i&w=320&h=109&hcb=2&ved=2ahUKEwii7_XLluWPAxUQNPsDHZepL3IQM3oECBQQAA\" alt=\"Encabezado\" style=\"max-height: 50px; width: auto; margin-bottom: 5px;\" />\n  </div>\n</header>",
   "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
   "printBackground": false,
   "generateTaggedPDF": false,
