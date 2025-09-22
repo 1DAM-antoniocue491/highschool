@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a351ac34d1ec10fa",
+        "id": "e232d29e27e49283",
         "type": "tabs",
         "children": [
           {
-            "id": "3cdf9810eb1eb84b",
+            "id": "d02304c2600687a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
-                "mode": "source",
-                "source": false
+                "file": "2ºDAM/Proyecto/Tarea de investigación.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Temario"
+              "icon": "lucide-file-text",
+              "title": "Tarea de investigación"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5
   },
   "right": {
     "id": "a6bb8ce03eae2856",
@@ -168,10 +166,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cdf9810eb1eb84b",
+  "active": "d02304c2600687a2",
   "lastOpenFiles": [
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
+    "2ºDAM/Proyecto/Tarea de investigación.pdf",
+    "2ºDAM/Proyecto/Tarea de investigación.md",
+    "2ºDAM/media/Pasted image 20250922203527.png",
+    "2ºDAM/Proyecto",
+    "2ºDAM/Inglés/Introduction.md",
+    "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Actividad 2_Fase de análisis.md",
+    "2ºDAM/Inglés",
+    "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Confección de interfaces de usuario.pdf",
     "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
     "2ºDAM/ACDAT2526/UD1_Ficheros",
     "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.pdf",
     "2ºDAM/media/prueba.png",
@@ -188,12 +194,8 @@
     "2ºDAM/media/Pasted image 20250917174027.png",
     "2ºDAM/media/Pasted image 20250917173832.png",
     "2ºDAM/media/Pasted image 20250917173744.png",
-    "2ºDAM/media",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor",
     "2ºDAM/Horario.md",
-    "readme.txt",
-    "Nuevo documento de texto.txt",
     "README.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/6. Geometría/Temario.md",
@@ -208,9 +210,6 @@
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Contenidos y temario.md",
     "2025-09-14.md",
     "Bachillerato/Matemáticas II/Simbología.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Fracciones.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios Realizados.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Contenido.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios.md"
+    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Fracciones.md"
   ]
 }
