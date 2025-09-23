@@ -13,17 +13,11 @@ Su principal utilidad es la simulación de un servidor en nuestro equipo. Con es
 ---
 ## Pasos para la instalación
 1. Primero nos tenemos que ir a la página oficial de Apache Friends para obtener el ejecutable. Para ir a la página web, haga [clic aquí](https://www.apachefriends.org/es/download.html).
-	![[Pasted image 20250917173458.png]]
 2. Cuando tenemos el `.exe` lo ejecutamos. En la primera ventana empezaremos la configuración inicial haciendo clic en *Next*.
-	![[Pasted image 20250917173744.png]]
 3. En esta siguiente ventana se pueden ver todos los servicios que podemos decidir instalar o no instalar. Por defecto vienen todos los servicios señalados, por lo que hacemos clic en *Next*.
-	![[Pasted image 20250917173832.png]]
 4. Como podemos ver en la imagen, en esta pantalla se seleccionará la ruta absoluta donde se generará la carpeta de `xampp`. Posteriormente veremos qué contiene esta carpeta. Por defecto viene la ruta `C:\xampp`. Nosotros podemos poner la ruta que más nos interese.
-	![[Pasted image 20250917174027.png]]
 5. Posteriormente se indicará el idioma y al darle a *Next* se empieza a instalar la pila XAMPP.
-	![[Pasted image 20250917174435.png]]
 6. Finalmente ya está instalado.
-	![[Pasted image 20250917174611.png]]
 
 ---
 ## Contenido de la carpeta `C:\xampp`

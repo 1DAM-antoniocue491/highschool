@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a351ac34d1ec10fa",
+        "id": "03708470e626e651",
         "type": "tabs",
         "children": [
           {
-            "id": "3cdf9810eb1eb84b",
+            "id": "056e7c353ecc61f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
+                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temario"
+              "title": "Manual Instalación Pila XAMPP"
             }
           }
         ]
@@ -168,32 +168,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cdf9810eb1eb84b",
+  "active": "056e7c353ecc61f3",
   "lastOpenFiles": [
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
+    "2ºDAM/PMDM_25_26/README.md",
+    "2ºDAM/PMDM_25_26",
+    "2ºDAM/PSP_25_26/README.md",
+    "2ºDAM/PSP_25_26",
+    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm/ad/t1/listarUnidades.class",
+    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm/ad/t1",
+    "2ºDAM/ACDAT2526/ad-t1-01/src/iesmm/ad/t1/listarUnidades.java",
+    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm/ad",
+    "2ºDAM/ACDAT2526/ad-t1-01/src/iesmm/ad/t1",
+    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm",
+    "2ºDAM/ACDAT2526/ad-t1-01/src/iesmm/ad",
+    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01",
     "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
-    "2ºDAM/ACDAT2526/UD1_Ficheros",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.pdf",
+    "2ºDAM/ACDAT2526/README.md",
+    "2ºDAM/DINT_25_26/README.md",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
+    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
+    "2ºDAM/Horario.md",
     "2ºDAM/media/prueba.png",
     "Excalidraw/Drawing 2025-09-19 17.29.38.excalidraw.md",
-    "Excalidraw",
     "2ºDAM/media/Pasted image 20250917173458.png",
-    "2ºDAM/media/Sin confirmar 966048.crdownload",
     "Bachillerato/Matemáticas II/Ruta de Estudio.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP_tmp.html",
-    "2ºDAM/Optativa/Test_PHP_Cliente_Servidor_Antonio_Cuevas_López.pdf",
     "2ºDAM/media/Pasted image 20250917174611.png",
     "2ºDAM/media/Pasted image 20250917174435.png",
     "2ºDAM/media/Pasted image 20250917174027.png",
     "2ºDAM/media/Pasted image 20250917173832.png",
     "2ºDAM/media/Pasted image 20250917173744.png",
-    "2ºDAM/media",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor",
-    "2ºDAM/Horario.md",
-    "readme.txt",
-    "Nuevo documento de texto.txt",
     "README.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad/Temario.md",
     "Bachillerato/Matemáticas II/Bases de Matemáticas/6. Geometría/Temario.md",
@@ -208,9 +212,6 @@
     "Bachillerato/Matemáticas II/Bases de Matemáticas/Contenidos y temario.md",
     "2025-09-14.md",
     "Bachillerato/Matemáticas II/Simbología.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Fracciones.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios Realizados.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Contenido.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Ejercicios.md"
+    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Fracciones.md"
   ]
 }
