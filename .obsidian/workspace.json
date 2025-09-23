@@ -1,39 +1,22 @@
 {
   "main": {
-    "id": "8b9c656c6d599a5d",
+    "id": "ebdb4fdf4c6aa174",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "03708470e626e651",
+        "id": "89ae84d585502a65",
         "type": "tabs",
         "children": [
           {
-            "id": "056e7c353ecc61f3",
-=======
-        "id": "e232d29e27e49283",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d02304c2600687a2",
->>>>>>> 60c5d9abd760bb189cc7efce9eac3e6188edacbd
+            "id": "5ccd4510a511b4e8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-<<<<<<< HEAD
-                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manual Instalación Pila XAMPP"
-=======
-                "file": "2ºDAM/Proyecto/Tarea de investigación.pdf"
+                "file": "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Confección de interfaces de usuario.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tarea de investigación"
->>>>>>> 60c5d9abd760bb189cc7efce9eac3e6188edacbd
+              "title": "UD01_Confección de interfaces de usuario"
             }
           }
         ]
@@ -42,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fbbda285058b5660",
+    "id": "5cdd551d36fb6b1c",
     "type": "split",
     "children": [
       {
-        "id": "00475bf4188b26c5",
+        "id": "88789e3ad5ca243d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd2be7449d62359",
+            "id": "e45446448036a1d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +46,7 @@
             }
           },
           {
-            "id": "d17e1a0b122bc1c9",
+            "id": "2270c5b8f2262446",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +63,7 @@
             }
           },
           {
-            "id": "f2c2e23e267eb1cf",
+            "id": "1849115e748eb836",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "a6bb8ce03eae2856",
+    "id": "119dfc6a7a79e334",
     "type": "split",
     "children": [
       {
-        "id": "e0b14ba7233063b6",
+        "id": "362e36f8a2391509",
         "type": "tabs",
         "children": [
           {
-            "id": "081f05937acd9076",
+            "id": "df6c56674626895b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,11 +102,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Temario"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "1c75d6df2acce19a",
+            "id": "ea5736c805a0b9ac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -136,7 +119,7 @@
             }
           },
           {
-            "id": "273b63ee0abc304c",
+            "id": "45da72add28051a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,7 +134,7 @@
             }
           },
           {
-            "id": "b82fe5c7566d905f",
+            "id": "af22148fcd4d1432",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -173,81 +156,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "056e7c353ecc61f3",
+  "active": "5ccd4510a511b4e8",
   "lastOpenFiles": [
-    "2ºDAM/PMDM_25_26/README.md",
-    "2ºDAM/PMDM_25_26",
-    "2ºDAM/PSP_25_26/README.md",
-    "2ºDAM/PSP_25_26",
-    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm/ad/t1/listarUnidades.class",
-    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm/ad/t1",
-    "2ºDAM/ACDAT2526/ad-t1-01/src/iesmm/ad/t1/listarUnidades.java",
-    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm/ad",
-    "2ºDAM/ACDAT2526/ad-t1-01/src/iesmm/ad/t1",
-    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01/iesmm",
-    "2ºDAM/ACDAT2526/ad-t1-01/src/iesmm/ad",
-    "2ºDAM/ACDAT2526/ad-t1-01/out/production/ad-t1-01",
-    "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
-    "2ºDAM/ACDAT2526/README.md",
-    "2ºDAM/DINT_25_26/README.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
-    "2ºDAM/Horario.md",
-=======
-  "active": "d02304c2600687a2",
-  "lastOpenFiles": [
-    "2ºDAM/Proyecto/Tarea de investigación.pdf",
-    "2ºDAM/Proyecto/Tarea de investigación.md",
-    "2ºDAM/media/Pasted image 20250922203527.png",
-    "2ºDAM/Proyecto",
-    "2ºDAM/Inglés/Introduction.md",
-    "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Actividad 2_Fase de análisis.md",
-    "2ºDAM/Inglés",
     "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Confección de interfaces de usuario.pdf",
-    "2ºDAM/ACDAT2526/UD1_Ficheros/Temario.md",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.md",
-    "2ºDAM/ACDAT2526/UD1_Ficheros",
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Manual Instalación Pila XAMPP.pdf",
->>>>>>> 60c5d9abd760bb189cc7efce9eac3e6188edacbd
-    "2ºDAM/media/prueba.png",
-    "Excalidraw/Drawing 2025-09-19 17.29.38.excalidraw.md",
-    "2ºDAM/media/Pasted image 20250917173458.png",
-    "Bachillerato/Matemáticas II/Ruta de Estudio.md",
-    "2ºDAM/media/Pasted image 20250917174611.png",
-    "2ºDAM/media/Pasted image 20250917174435.png",
-    "2ºDAM/media/Pasted image 20250917174027.png",
-    "2ºDAM/media/Pasted image 20250917173832.png",
-    "2ºDAM/media/Pasted image 20250917173744.png",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/1. Números reales/Temario.md",
-<<<<<<< HEAD
-=======
-    "2ºDAM/Horario.md",
->>>>>>> 60c5d9abd760bb189cc7efce9eac3e6188edacbd
-    "README.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/9. Probabilidad/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/6. Geometría/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/8. Estadística/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/7. Funciones. Modelos funcionales/prueba.md",
-    "Excalidraw/Drawing 2025-09-16 08.42.09.excalidraw.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/7. Funciones. Modelos funcionales/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/5. Inecuaciones/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/4. Ecuaciones y sistemas/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/3. Polinomios/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/2. Proporcionalidad/Temario.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Contenidos y temario.md",
-    "2025-09-14.md",
-    "Bachillerato/Matemáticas II/Simbología.md",
-    "Bachillerato/Matemáticas II/Bases de Matemáticas/Aritmética y Álgebra básica/Números enteros, fracciones, decimales, potencias y raíces/Fracciones.md"
+    "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Actividad 2_Fase de análisis.md"
   ]
 }
