@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md"
+                "file": "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Confección de interfaces de usuario.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Introducción"
+              "icon": "lucide-file-text",
+              "title": "UD01_Confección de interfaces de usuario"
             }
           }
         ]
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "63e75c50229e7207",
+            "id": "2270c5b8f2262446",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "43f655ff0de76ae5",
+            "id": "1849115e748eb836",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,23 +76,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "848613408844ef27",
+    "id": "119dfc6a7a79e334",
     "type": "split",
     "children": [
       {
-        "id": "e7155653d0d8c846",
+        "id": "362e36f8a2391509",
         "type": "tabs",
         "children": [
           {
-            "id": "5d556a1e0e693bd3",
+            "id": "df6c56674626895b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "76345676e495356e",
+            "id": "af22148fcd4d1432",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -168,8 +170,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b6fc8fa84ae7bef",
+  "active": "5ccd4510a511b4e8",
   "lastOpenFiles": [
-    "2ºDAM/Optativa/Tema1_Introducción a la Programación en el Servidor/Introducción.md"
+    "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Confección de interfaces de usuario.pdf",
+    "2ºDAM/DINT_25_26/UD1_Confección_de_interfaces/UD01_Actividad 2_Fase de análisis.md"
   ]
 }
