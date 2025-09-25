@@ -12,7 +12,7 @@ Responde a las siguientes cuestiones iniciales:
 ---
 - ***¿Qué es un Análisis DAFO? Muestra un ejemplo de uno.***
 	El análisis *DAFO* es una herramienta de planificación estratégica que evalúa las debilidades, amenazas, fortalezas y oportunidades de un proyecto.
-	![[Pasted image 20250922203527.png]]
+	![[Pastedimage20250922203527.png]]
 ---
 - ***¿Cuáles son los principales modelos del ciclo de vida de un proyecto software?***
 	Los principales modelos del ciclo de vida de un proyecto de software incluyen:
