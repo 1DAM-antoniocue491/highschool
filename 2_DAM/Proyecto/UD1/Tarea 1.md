@@ -15,7 +15,7 @@ Un **mapa de navegación** es un diagrama que muestra la estructura jerárquica 
 ### ¿Qué es una landing page?
 Una **landing page** es una página web creada con un objetivo específico, como recoger información de contacto o promocionar un producto o servicio. Está optimizada para convertir visitantes en leads o clientes.
 ### Ejemplo de una landing page real
-La página de bienvenida de **Slack**. Esta destaca por su diseño limpio y directo, con un llamado a la acción claro que dice *"Probar gratis"* y una propuesta de valor concisa que enfatiza los beneficios de utilizar Slack.
+![imagen](../media/Pastedimage20251010164652.png)
 
 ---
 # Layout
@@ -37,10 +37,7 @@ Por lo general, incluye:
 - Componentes de interfaz (botones, formularios)  
 - Tono y estilo de redacción
 ### Ejemplo real de guía de estilos
-**Universidad de Córdoba**. Sus características incluyen:  
-- Uso de una retícula de 12 columnas para el diseño  
-- Especificaciones detalladas de tipografía y colores institucionales  
-- Directrices sobre la disposición de los elementos en la página
+![imagen](../media/Pastedimage20251010164522.png)
 
 ---
 # Figma: concepto y utilidad
@@ -55,7 +52,24 @@ Por lo general, incluye:
 1. **Enlaces entre pantallas:** permiten definir interacciones y transiciones  
 2. **Animaciones:** posibilitan crear transiciones suaves entre los elementos para mejorar la experiencia del usuario
 ### Ejemplo de prototipo web real realizado en Figma
-
+![imagen](../media/Pastedimage20251010164331.png)
 
 ### ¿Cómo un prototipo en Figma mejora la comunicación con el cliente o el equipo de desarrollo?
 Un prototipo en Figma permite visualizar y probar la interacción con la interfaz antes de implementarla. Esto facilita la retroalimentación temprana y asegura que el producto final cumpla con las expectativas del cliente y los requisitos técnicos del equipo de desarrollo.
+### Prototipo básico
+![Imagen](../media/Pastedimage20251010163844.png)
+1. **Pantalla 1 (Inicio)**
+    - Muestra la información de la bodega (“Bodega Vinos Clinton S.L.”).
+    - Tiene tres botones en la parte inferior:
+        - 🏠 → (Inicio) — no hace nada porque ya estamos aquí.
+        - ≡ → (Menú) — lleva con un efecto disolvente (fade) a la Pantalla 2.
+        - ⚙️ → (Ajustes) — lleva instantáneamente a la Pantalla 3.
+2. **Pantalla 2 (Menú)**
+    - Similar a la primera, pero con un cuadro que muestra opciones.
+    - Los botones inferiores hacen lo siguiente:
+        - 🏠 → vuelve con disolvente a la Pantalla 1.
+        - ≡ → permanece (ya estás en el menú).
+        - ⚙️ → va instantáneamente a la Pantalla 3.
+3. **Pantalla 3 (Ajustes)**
+    - Muestra una lista de opciones (“Ajuste 1”, “Ajuste 2”…).
+    - El primer botón (🏠) lleva **instantáneamente** de vuelta a la Pantalla 1.
